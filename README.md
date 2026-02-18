@@ -8,5 +8,5 @@
 
 ## USE:
 - download the script(s)
-- run "python3 <script-name>"
+- run "python3 script-name"
  
